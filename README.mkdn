@@ -10,7 +10,7 @@ This guide will walk you through downloading the source code, setting up the bui
 First, initialize the repo:
 
 ```bash
-repo init -u https://github.com/AxionAOSP/android.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/whyakari/android.git -b lineage-24.0 --git-lfs
 ```
 
 Then sync the source code:
